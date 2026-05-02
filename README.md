@@ -26,7 +26,7 @@
 The system removes dependency on manual measuring tools and expensive industrial scanners by applying geometric analysis and reference-based calibration techniques. By detecting a known reference object placed near the target item, the system converts pixel distances into accurate physical measurements.
 
 🚀 Download Mobile App (APK):
-👉
+👉 https://github.com/VandanArora18/GrabScale/releases/tag/v1.0
 
 This solution is particularly useful for logistics validation, manufacturing inspection, retail inventory verification, and digital space organization.
 
